@@ -38,27 +38,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MMDBProperties.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MMSQLCommand.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MMSQLError.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MMSQLErrorRecord.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MMSQLOLEDB.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MMSQLQuery.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MMSQLRowSet.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
